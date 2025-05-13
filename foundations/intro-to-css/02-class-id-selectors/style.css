@@ -1,4 +1,4 @@
-p {
+.class {
     background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
@@ -8,12 +8,11 @@ p {
     color: blue;
 }
 
-p .cooler {
+.cooler {
     font-size: 24px;
 }
 
 #number-4 {
-    font-size: 24px;
     font-weight: bold;
     background-color: lightgreen;
 }
